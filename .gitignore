@@ -1,0 +1,29 @@
+*.pdf
+*.exe
+*.png
+*.jpeg
+*.jpg
+*.zip
+*.docx
+*.pptx
+*.rar
+*.dwg
+*.odt
+*.html
+*.htm
+*.xml
+*.py
+*.crdownload
+*.vbox-extpack
+*.pptx
+*.ppt
+*.msys
+*.ini
+
+# Ignore folders
+Arduino IDE/
+Git/
+Level-2/
+Level-3/
+Notepad++/
+Office/
